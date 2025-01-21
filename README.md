@@ -41,4 +41,4 @@ A Consumer finance company, specialises in lending various types ( personal loan
 
 
 ## Contact
-Created by @GVChalamaReddy and @vikassunkad73 - feel free to contact me!
+Created by @[GVChalamaReddy](https://github.com/GVChalamaReddy) and @vikassunkad73 - feel free to contact me!
