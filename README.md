@@ -11,11 +11,11 @@ A Consumer finance company, specialises in lending various types ( personal loan
 
 ## General Information
    ### Business Understanding:
-        A Consumer finance company, when receives a loan application, has to make a decision for loan approval based on the applicant’s profile. As part of risk
-        mitigation, company want's to reduce the bussiness and financial or Credit loss. During evaluating a loan application there are two types of risks 
-        associated with the bank’s decision:
-            - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
-            - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+   A Consumer finance company, when receives a loan application, has to make a decision for loan approval based on the applicant’s profile. As part of risk
+   mitigation, company want's to reduce the bussiness and financial or Credit loss. During evaluating a loan application there are two types of risks 
+   associated with the bank’s decision:
+   - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+   - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
    ### Business Objective:
         - Company's decision making in loan approval process is backed with strong analytics data, which helps to take a right decision for loan sancation.
