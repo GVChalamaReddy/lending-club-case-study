@@ -28,10 +28,10 @@ A Consumer finance company, specialises in lending various types ( personal loan
 
 ## Technologies Used
 - [Python](https://www.python.org/) - version 3.13.1
-- [Matplotlib](https://matplotlib.org/) - version 3.7.1
-- [Numpy](https://numpy.org/) - version 1.24.3
-- [Pandas](https://pandas.pydata.org/) - version 1.5.3
-- [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
+- [Matplotlib](https://matplotlib.org/) - version 3.10.0
+- [Numpy](https://numpy.org/) - version 2.2.1
+- [Pandas](https://pandas.pydata.org/) - version 2.2.3
+- [Seaborn](https://seaborn.pydata.org/) - version 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
