@@ -58,10 +58,13 @@ A Consumer finance company, specialises in lending various types ( personal loan
           
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Grade is the most important predictor of the loan charged off%.
+- Higher number public records is also a very good predictor of loan charged off %.
+- Purpose of the loan can also be a good predictor of loan charged off%.
+- Purpose along with Grade bi variate analysis can help in further sharpening the insights.
+- Very high open accounts can lead to high loan charged off%.
+- High enquiries can also be an indicator of high loan charged off%.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
