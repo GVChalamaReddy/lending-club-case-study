@@ -18,23 +18,21 @@ A Consumer finance company, specialises in lending various types ( personal loan
    - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
    ### Business Objective:
-        - Company's decision making in loan approval process is backed with strong analytics data, which helps to take a right decision for loan sancation.
-        - Company's loan approval time can be reduced, which improves profitability and bussiness growth.
-        - Company can mitigate the credit loss with help of risk analytics, by identifying the borrowers capability of loan repayment and can reduce such loans.
-        - Company can mitigate the bussiness loss with help of risk analytics, by not rejecting a loan to a customer whose loan repayment status and credit score is very good or exceptional.
-        - Company can take a decision on interest rate provided to customers based on the risk appetite i.e sancation a loan with high interest rate to a customer with average credit score and low interest rate to a customer with exceptional credit score.
+   - Company's decision making in loan approval process is backed with strong analytics data, which helps to take a right decision for loan sancation.
+   - Company's loan approval time can be reduced, which improves profitability and bussiness growth.
+   - Company can mitigate the credit loss with help of risk analytics, by identifying the borrowers capability of loan repayment and can reduce such loans.
+   - Company can mitigate the bussiness loss with help of risk analytics, by not rejecting a loan to a customer whose loan repayment status and credit score is very good or exceptional.
+   - Company can take a decision on interest rate provided to customers based on the risk appetite i.e sancation a loan with high interest rate to a customer with average credit score and low interest rate to a customer with exceptional credit score.
 
   ### DataSet Understanding:
-        Data given contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person 
-        is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher 
-        interest rate, etc. Data contains consumer and loan attributes, which helps to take a decision of loan approval.There are two types of decisions that could 
-        be taken by the company using the risk analytics process.
-            1. Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
-                  - Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
-                  - Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not 
-                             labelled as 'defaulted'.
-                  - Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
-            2. Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset).
+  Data given contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person 
+  is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher 
+  interest rate, etc. Data contains consumer and loan attributes, which helps to take a decision of loan approval.There are two types of decisions that could be taken by the company using the risk analytics process.
+ 1. Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
+   - Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
+   - Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
+   - Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
+ 2. Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset).
 
   ### DataSet Attributes: 
          - The Loan.csv file has 39717 records.
