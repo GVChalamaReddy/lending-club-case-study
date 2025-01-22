@@ -47,7 +47,7 @@ A Consumer finance company, specialises in lending various types ( personal loan
    5. **Financial Details** - `desc, purpose, title, dti, delinq_2yrs, earliest_cr_line,  inq_last_6mths, mths_since_last_delinq, mths_since_last_record,open_acc,  pub_rec, revol_bal,revol_util, total_acc, initial_list_status, pub_rec_bankruptcies` 
    6. **Recovery Details** -  `out_prncp, out_prncp_inv, total_pymnt, total_pymnt_inv, total_rec_prncp, total_rec_int,
                                 total_rec_late_fee, recoveries, collection_recovery_fee, last_pymnt_d, last_pymnt_amnt, next_pymnt_d, last_credit_pull_d` 
-   7. **Does not contain Data** - `**59 columns which do not contain any data can be dropped from the analysis - **
+   7. **Does not contain Data** - `59 columns which do not contain any data can be dropped from the analysis -
                                      collections_12_mths_ex_med, mths_since_last_major_derog, annual_inc_joint, dti_joint, verification_status_joint, 
                                      acc_now_delinq, tot_coll_amt, tot_cur_bal,open_acc_6m, open_il_6m, open_il_12m, open_il_24m, mths_since_rcnt_il, total_bal_il, 
                                      il_util, open_rv_12m, open_rv_24m, max_bal_bc, all_util, total_rev_hi_lim, inq_fi, total_cu_tl, inq_last_12m, 
